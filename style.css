@@ -1,0 +1,32 @@
+.main {
+    justify-content: space-around;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: auto;
+    width: 600px;
+    display: flex;
+    background-color: #fca311;
+    border-bottom: 10px solid #14213d;
+    text-align: center;
+    border-radius: 10px;
+}
+.name{
+    font-size: xx-large;
+    font-weight: 1000;
+    color: #14213d;
+}
+.text{
+    font-size: large;
+    color: #14213d;
+}
+.photo {
+    width: 150px;
+    /* border: 10px solid #14213d; */
+    border-radius: 5px;
+}
+
+.bborder{
+    border: 1px dotted black;
+}
